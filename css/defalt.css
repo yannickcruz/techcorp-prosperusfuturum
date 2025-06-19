@@ -1,0 +1,25 @@
+*{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+:root{
+    /*The Colour Sector*/
+    
+    --std_orange: #ff8a00;
+    --hover_orange: #ff5e00;
+    --std_gray: rgb(43, 43, 43);
+    --black: #000000;
+    --white: #ffffff;
+
+}
+
+/*Body general styles*/
+body{
+    font-family: "Bebas Neue", arial;
+    font-weight: 400;
+    font-style: normal;
+    background-color: var(--black);
+}
